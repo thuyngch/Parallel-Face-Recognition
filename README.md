@@ -6,7 +6,12 @@ A facial recognition system that is parallelized in order to speed up the comput
 
 Table of contents
 =================
-
+- [I.Introduction](#iintroduction)
+- [II.Description](#iidescription)
+- [III.Used dependency configuration](#iiiused-dependency-configuration)
+- [VI.Implementation](#viimplementation)
+- [VII.Results](#viiresults)
+- [VIII.Concusion](#viiiconcusion)
 
 
 I.Introduction
