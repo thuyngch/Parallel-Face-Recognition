@@ -52,7 +52,7 @@ VI.Implementation
 
 * To parallelize the original system in Python 3, I use [Process-based “threading” interface](https://docs.python.org/2/library/multiprocessing.html).
 
-* Note that the GUI-integrated code in the folder "3.GUI-integrated-system" is just used in PC. I have not develop any version to run GUI on the Raspberry.
+* Note that the GUI-integrated code in the folder "3.GUI-integrated-system" is just used in PC. I have not developed any version to run GUI on the Raspberry.
 
 
 VII.Results
