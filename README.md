@@ -54,6 +54,23 @@ VI.Implementation
 
 * Note that the GUI-integrated code in the folder "3.GUI-integrated-system" is just used in PC. I have not developed any version to run GUI on the Raspberry.
 
+* Below are some pictures of my GUI.
+
+**Before registering**
+<p align="center">
+  <img src="https://github.com/AntiAegis/Parallelized-Facial-Recognition/blob/master/before-registration.png" width="700" alt="accessibility text">
+</p>
+
+**Register successfully**
+<p align="center">
+  <img src="https://github.com/AntiAegis/Parallelized-Facial-Recognition/blob/master/register-successfully.png" width="700" alt="accessibility text">
+</p>
+
+**Verification**
+<p align="center">
+  <img src="https://github.com/AntiAegis/Parallelized-Facial-Recognition/blob/master/verification.png" width="700" alt="accessibility text">
+</p>
+
 
 VII.Results
 ============
