@@ -1,4 +1,4 @@
-# Parallel-Facial-Recognition
+# Parallel-Face-Recognition
 A facial recognition system that is parallelized in order to speed up the computational performance.
 
 #### Keyword: Facial Recognition, Biometrics, Computer Vision, Image Processing, Parallelization, PyQt5
